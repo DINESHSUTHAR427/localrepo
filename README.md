@@ -1,1 +1,1 @@
-# this is my local repo
+this my first repo for learn javascript
